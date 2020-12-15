@@ -11,3 +11,5 @@ second line added in github
 >>>>>>> c5e41447760dcb2750f31491d9c042eb8a82f741
 
 git add
+
+git commit
