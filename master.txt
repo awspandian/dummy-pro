@@ -1,20 +1,2 @@
 
-this line is added through local
-=======
-this line added through github
-
-
-<<<<<<< HEAD
-this second line added in git
-=======
-second line added in github
->>>>>>> c5e41447760dcb2750f31491d9c042eb8a82f741
-
-git add
-
-git commit
-
-git push
-
-git log
-
+this commit from hub to check the stash from hub
